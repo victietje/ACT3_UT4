@@ -1,0 +1,44 @@
+[
+    {
+        "title": "El misterio de la pirámide de queso",
+        "author": "Elisabetta Dami",
+        "genre": "Ficción",
+        "year": 2003,
+        "cover": "piramide.jpg"
+    },
+    {
+        "title": "En el reino de la fantasía",
+        "author": "Elisabetta Dami",
+        "genre": "Ficción",
+        "year": 2000,
+        "cover": "fantasia.jpg"
+    },
+    {
+        "title": "El Castillo de Zampachicha Miaumiau",
+        "author": "Elisabetta Dami",
+        "genre": "Ficción",
+        "year": 1999,
+        "cover": "castillo.jpg"
+    },
+    {
+        "title": "El castillo de Roca Tacaña",
+        "author": "Elisabetta Dami",
+        "genre": "Fantasía",
+        "year": 1996,
+        "cover": "tacaña.jpg"
+    },
+    {
+        "title": "Misterio en París",
+        "author": "Elisabetta Dami",
+        "genre": "Fantasía",
+        "year": 2007,
+        "cover": "paris.jpg"
+    },
+    {
+        "title": "El ratón más loco",
+        "author": "Elisabetta Dami",
+        "genre": "Fantasía",
+        "year": 2004,
+        "cover": "loco.jpg"
+    }
+]
